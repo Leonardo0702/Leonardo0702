@@ -26,6 +26,7 @@
   <a href="https://www.linkedin.com/in/leonardo-henrique-souza-b6b13a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                  badge&logo=linkedin&logoColor=white" target="_blank" height="30em"></a> 
   
 </div>
-<div>
-  <h4>Tentando melhorar meus repositórios para deixar o perfil cada vez mais interessante</h4>
+<div style="display: inline_block"><br>
+  <h4>Tentando deixar o perfil cada vez mais interessante</h4>
+ <img alt="GitHub Repo stars" height="20em" src="https://img.shields.io/github/stars/Leonardo0702/Leonardo0702?style=social">
 </div>
