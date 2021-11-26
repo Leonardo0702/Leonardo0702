@@ -1,8 +1,8 @@
 ### Olá, meu nome é Leonardo! Bem-vindo ao meu perfil!! 👋
 
-🔭 Trabalho como desenvolvedor front-end
-👀 Estudando React e Typescrip
-😄 Pronouns: ele/dele
+<h4>🔭 Trabalho como desenvolvedor front-end</h4>
+<h4>👀 Estudando React e Typescrip</h4>
+<h4>😄 Pronouns: ele/dele</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-henrique-souza-b6b13a210/">
