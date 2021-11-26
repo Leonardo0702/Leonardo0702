@@ -1,6 +1,6 @@
 ### Olá, meu nome é Leonardo! Bem-vindo ao meu perfil!! 👋
 
-🔭 Hoje trabalho com front-end
+🔭 Trabalho como desenvolvedor front-end
 👀 Estudando React e Typescrip
 😄 Pronouns: ele/dele
 
@@ -27,5 +27,5 @@
   
 </div>
 <div>
-  <h4>Tentando melhorar meus repositórios para deixar co perfil cada vez mais interessante</h4>
+  <h4>Tentando melhorar meus repositórios para deixar o perfil cada vez mais interessante</h4>
 </div>
