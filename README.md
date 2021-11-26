@@ -1,7 +1,7 @@
-### Olá, meu nome é Leonardo 👋
+### Olá, meu nome é Leonardo! Bem-vindo ao meu perfil!! 👋
 
 🔭 Hoje trabalho com front-end
-🌱 Estudando React e Typescrip
+👀 Estudando React e Typescrip
 😄 Pronouns: ele/dele
 
 <div align="center">
@@ -25,4 +25,7 @@
   <a href = "mailto:leonardohenrique.uel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="30em"></a>
   <a href="https://www.linkedin.com/in/leonardo-henrique-souza-b6b13a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-                  badge&logo=linkedin&logoColor=white" target="_blank" height="30em"></a> 
   
+</div>
+<div>
+  <h4>Tentando melhorar meus repositórios para deixar co perfil cada vez mais interessante</h4>
 </div>
